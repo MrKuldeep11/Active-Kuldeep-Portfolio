@@ -16,6 +16,12 @@ The website showcases my:
 - 📄 Resume
 - 📬 Contact information
 
+## 🌐 Live Demo
+
+🚀 **[View Live Portfolio](https://active-kuldeep-portfolio-27qt80tk7-active-kuldeep.vercel.app/)**
+
+Visit my live portfolio to explore my skills, projects, education, developer journey, and resume.
+
 ## ✨ Features
 
 - 🎨 Modern and clean UI
