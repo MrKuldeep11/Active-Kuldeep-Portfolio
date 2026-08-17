@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Active Kuldeep — Developer Portfolio
 
-## Getting Started
+> A modern, responsive personal portfolio built to showcase my skills, projects, education, and journey as a Computer Science Engineering student and aspiring Full-Stack Developer.
 
-First, run the development server:
+## 👋 About The Project
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Active Kuldeep** is my personal developer portfolio website.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The website showcases my:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 💻 Development skills
+- 🚀 Projects
+- 🎓 Education
+- 🧭 Learning journey
+- 🤖 Interest in AI and modern technologies
+- 📄 Resume
+- 📬 Contact information
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Features
 
-## Learn More
+- 🎨 Modern and clean UI
+- 📱 Responsive design
+- ⚡ Next.js powered application
+- 🎬 Smooth animations with Framer Motion
+- 🧩 Reusable React components
+- 💻 Skills and technology showcase
+- 🚀 Project showcase
+- 🎓 Education section
+- 📄 Resume view and download
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Technology | Usage |
+|---|---|
+| Next.js | React framework |
+| React | User interface |
+| TypeScript | Type-safe development |
+| Tailwind CSS | Styling |
+| Framer Motion | Animations |
+| Lucide React | Icons |
+| ESLint | Code quality |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📂 Project Structure
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```text
+Active-Kuldeep-Portfolio/
+├── app/
+├── components/
+├── data/
+├── public/
+│   └── images/
+│       ├── hero.jpeg
+│       ├── profile.jpeg
+│       └── Kuldeep_Resume.pdf
+├── package.json
+├── next.config.ts
+├── tsconfig.json
+└── README.md
